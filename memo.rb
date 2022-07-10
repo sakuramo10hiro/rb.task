@@ -33,5 +33,4 @@ if input_type == 1
 
  else
   puts "1か2を入力して下さい。"
- end
 end
